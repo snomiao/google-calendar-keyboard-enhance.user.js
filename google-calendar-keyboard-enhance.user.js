@@ -10,6 +10,12 @@
 // @name:fr      [SNOLAB] Google Calendar amélioration clavier
 // @name:de      [SNOLAB] Google Kalender Tastaturverbesserung
 // @name:ru      [SNOLAB] Google Календарь улучшение клавиатуры
+// @name:ar      [SNOLAB] تحسين لوحة مفاتيح تقويم Google
+// @name:pt      [SNOLAB] Google Calendar aprimoramento de teclado
+// @name:it      [SNOLAB] Google Calendar miglioramento tastiera
+// @name:nl      [SNOLAB] Google Agenda toetsenbordverbetering
+// @name:hi      [SNOLAB] Google कैलेंडर कीबोर्ड संवर्धन
+// @name:tr      [SNOLAB] Google Takvim klavye geliştirme
 // @namespace    https://userscript.snomiao.com/
 // @version      0.1.0
 // @description  Google Calendar keyboard enhancement. Features: Double-click to copy text from event view, Alt+hjkl to move events, Alt+Shift+hjkl to expand/shrink events
@@ -23,6 +29,12 @@
 // @description:fr Amélioration du clavier Google Calendar. Fonctionnalités: Double-clic pour copier le texte de la vue d'événement, Alt+hjkl pour déplacer les événements, Alt+Shift+hjkl pour étendre/réduire les événements
 // @description:de Google Kalender Tastaturverbesserung. Funktionen: Doppelklick zum Kopieren von Text aus der Ereignisansicht, Alt+hjkl zum Verschieben von Ereignissen, Alt+Shift+hjkl zum Erweitern/Verkleinern von Ereignissen
 // @description:ru Улучшение клавиатуры Google Календаря. Функции: Двойной клик для копирования текста из просмотра событий, Alt+hjkl для перемещения событий, Alt+Shift+hjkl для расширения/сжатия событий
+// @description:ar تحسين لوحة مفاتيح تقويم Google. الميزات: انقر نقرًا مزدوجًا لنسخ النص من عرض الحدث، Alt+hjkl لنقل الأحداث، Alt+Shift+hjkl لتوسيع/تقليص الأحداث
+// @description:pt Aprimoramento do teclado do Google Calendar. Recursos: Clique duplo para copiar texto da visualização de eventos, Alt+hjkl para mover eventos, Alt+Shift+hjkl para expandir/reduzir eventos
+// @description:it Miglioramento della tastiera di Google Calendar. Funzioni: Doppio clic per copiare il testo dalla vista evento, Alt+hjkl per spostare gli eventi, Alt+Shift+hjkl per espandere/ridurre gli eventi
+// @description:nl Google Agenda toetsenbordverbetering. Functies: Dubbelklik om tekst uit gebeurtenisweergave te kopiëren, Alt+hjkl om gebeurtenissen te verplaatsen, Alt+Shift+hjkl om gebeurtenissen uit te vouwen/in te krimpen
+// @description:hi Google कैलेंडर कीबोर्ड संवर्धन। सुविधाएं: इवेंट व्यू से टेक्स्ट कॉपी करने के लिए डबल-क्लिक, इवेंट्स को मूव करने के लिए Alt+hjkl, इवेंट्स को विस्तार/संकुचित करने के लिए Alt+Shift+hjkl
+// @description:tr Google Takvim klavye geliştirme. Özellikler: Etkinlik görünümünden metin kopyalamak için çift tıklama, etkinlikleri taşımak için Alt+hjkl, etkinlikleri genişletmek/daraltmak için Alt+Shift+hjkl
 // @author       snomiao@gmail.com
 // @match        *://calendar.google.com/*
 // @grant        none
