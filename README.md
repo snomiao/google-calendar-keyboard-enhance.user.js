@@ -52,18 +52,6 @@ To modify this script:
 3. Test in your browser with a userscript manager
 4. Submit a pull request with your improvements
 
-## Multi-language Support
-
-This userscript supports multiple languages including:
-- English
-- Chinese (Simplified & Traditional)
-- Japanese
-- Korean
-- Spanish
-- French
-- German
-- Russian
-
 ## License
 
 This project is open source. Feel free to use and modify as needed.
