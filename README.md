@@ -19,8 +19,9 @@ A userscript that enhances Google Calendar with keyboard shortcuts and text copy
    - [Greasemonkey](https://www.greasespot.net/) (Firefox)
 
 2. Install the script from one of these sources:
+   - **[Install from GitHub](https://raw.githubusercontent.com/snomiao/google-calendar-keyboard-enhance.user.js/main/google-calendar-keyboard-enhance.user.js)** (Direct link from this repository)
    - [Greasy Fork](https://greasyfork.org/scripts/439210)
-   - [Direct install](https://update.greasyfork.org/scripts/439210/%5BSNOLAB%5D%20Google%20Calendar%20keyboard%20enhance.user.js)
+   - [Direct install from Greasy Fork](https://update.greasyfork.org/scripts/439210/%5BSNOLAB%5D%20Google%20Calendar%20keyboard%20enhance.user.js)
 
 ## Usage
 
